@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **about cloud technologies.**
 
-- 💬 Ask me about **TypeScript, .NET core and Cloud**
+- 💬 Ask me about **TypeScript, .NET and Cloud**
 
 - 📫 How to reach me **aberhamyirsaw@gmail.com**
 
