@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Abraham Teka</h1>
+<h1 align="left">Hi 👋, I'm Abraham Yirsaw Teka</h1>
 <h3 align="left">I'm a full-stack web developer and cloud enthusiast who want to help build mission critical systems.</h3>
 
 - 🌱 I’m currently learning **about cloud technologies.**
