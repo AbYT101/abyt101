@@ -34,8 +34,8 @@ Generative AI Engineer with a strong background in ML, NLP, and full-stack devel
 
 ## Certifications
 
-- **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- **AWS Certified: Certified Cloud Practitioner (CLF-02)**
+- **Microsoft Certified: [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/abrahamyt-4943/credentials/e0a02d871cd533ed)**
+- **AWS Certified: [Certified Cloud Practitioner (CCP)](https://www.credly.com/badges/2e03cc29-77eb-4537-9938-e41abd474da5/public_url)**
 
 
 <h3 align="left">Connect with me:</h3>
