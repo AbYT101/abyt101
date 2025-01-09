@@ -8,8 +8,6 @@ Generative AI Engineer with a strong background in ML, NLP, and full-stack devel
 
 - 🌱 I’m currently learning and working on **Generative AI and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/abraham-teka](https://sites.google.com/view/abraham-teka)
-
 - 💬 Ask me about **Generative AI, Machine Learning, TypeScript, .NET and Cloud**
 
 ---
@@ -36,7 +34,7 @@ Generative AI Engineer with a strong background in ML, NLP, and full-stack devel
 
 - **Microsoft Certified: [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/abrahamyt-4943/credentials/e0a02d871cd533ed)**
 - **AWS Certified: [Certified Cloud Practitioner (CCP)](https://www.credly.com/badges/2e03cc29-77eb-4537-9938-e41abd474da5/public_url)**
-
+- **AWS Certified: [AWS Solutions Architect Associate (SAA)](https://www.credly.com/badges/e5aecd27-f713-4407-b162-0ae1c9457630/public_url)**
 
 <h3 align="left">Connect with me:</h3>
  
