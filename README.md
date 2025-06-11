@@ -1,14 +1,14 @@
 <h1 align="left">Hi 👋, I'm Abraham Teka</h1>
-<h3 align="left">Ambitious Generative AI and Software Engineer</h3>
+<h3 align="left">Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abyt101&label=Profile%20views&color=0e75b6&style=flat" alt="abyt101" /> </p>
 
-Generative AI Engineer with a strong background in ML, NLP, and full-stack development. Proficient in building RAG systems, prompt engineering, and fine-tuning LLMs. Skilled in integrating ML models and chatbots into web applications. Experienced in building data warehouses, ETL pipelines, and deploying scalable applications using Docker and Kubernetes.
+Software Engineer with a strong background in full-stack development, Generative AI, and AWS. I build scalable web apps, cloud-native systems on AWS and Azure, and AI-powered tools that make a difference. From modernizing legacy systems to crafting AI chatbots, I’m all about writing clean, testable code and automating deployments with Docker and CI/CD pipelines. My work’s impacted over 1M users, boosting efficiency by up to 40%. I’m here to innovate, collaborate, and create tech that’s inclusive and game-changing. Let’s code the future together.
 
 - 🔭 I’m currently working on **Full stack web development**
 
 - 🌱 I’m currently learning and working on **Generative AI and Machine Learning**
 
-- 💬 Ask me about **Generative AI, Machine Learning, TypeScript, .NET and Cloud**
+- 💬 Ask me about **Generative AI, Python, TypeScript, .NET and Cloud**
 
 ---
 
@@ -30,15 +30,17 @@ Generative AI Engineer with a strong background in ML, NLP, and full-stack devel
 
 ---
 
-## Certifications
+## 🏅 Certifications
 
 - **Microsoft Certified: [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/abrahamyt-4943/credentials/e0a02d871cd533ed)**
-- **AWS Certified: [Certified Cloud Practitioner (CCP)](https://www.credly.com/badges/2e03cc29-77eb-4537-9938-e41abd474da5/public_url)**
-- **AWS Certified: [AWS Solutions Architect Associate (SAA)](https://www.credly.com/badges/e5aecd27-f713-4407-b162-0ae1c9457630/public_url)**
+- **AWS Certified: [Certified Cloud Practitioner (CLF-02)](https://www.credly.com/badges/2e03cc29-77eb-4537-9938-e41abd474da5/public_url)**
+- **AWS Certified: [AWS Solutions Architect Associate (SAA-C03)](https://www.credly.com/badges/e5aecd27-f713-4407-b162-0ae1c9457630/public_url)**
+- **AWS Certified: [Developer – Associate (DVA-C02)](https://www.credly.com/badges/9a9bd4a8-cdaf-4504-b3b8-c9578a05e66b/public_url)**
+- **AWS Certified: [Machine Learning – Associate (MLA-C01)](https://www.credly.com/badges/c505bb47-ae81-404e-83d5-41caac122405/public_url)**
+
 
 <h3 align="left">Connect with me:</h3>
  
-- 📞 (251) 912 21-5452  
 - ✉️ aberhamyirsaw@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/abraham-teka)
 
