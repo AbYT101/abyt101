@@ -43,7 +43,6 @@ I build scalable backend systems, automation workflows, and data pipelines — m
 <h3 align="left">Connect with me:</h3>
  
 - ✉️ aberhamyirsaw@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/abraham-teka)
 
 **Location:** Silver Spring, MD
 
