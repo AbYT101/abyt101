@@ -1,7 +1,7 @@
 
 ### 👋 Hi, I'm **Abraham Teka**
 
-**Full-stack Python Developer | Cloud & Data Engineer | AI/ML Enthusiast**
+**AI Developer | Cloud & Data Engineer | AI/ML Enthusiast**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abyt101&label=Profile%20views&color=0e75b6&style=flat" alt="abyt101" /> </p>
 
